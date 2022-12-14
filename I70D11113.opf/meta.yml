@@ -1,0 +1,28 @@
+id: I70D11113
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:18:38.531068+00:00
+last_modified: 2022-12-14 15:18:38.531073+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-06T15:43:59.689Z'
+  creationid: BG
+  eft-text-id: UT22084-068-017
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_283-The_Sutra_of_the_Three_Bodies-v1
+bases:
+  1AA5:
+    source_metadata: null
+    order: 1
+    base_file: 1AA5.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
